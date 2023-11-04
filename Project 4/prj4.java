@@ -1,14 +1,13 @@
 
 
-   // Calculate a given player's earned run average (E.R.A.) by program user inputting custom values //
-    //----------------------------------------------------------------------------------------------//
-     //<=================>//
-      // Benjamin St. John //
-       //                   //
-        //                   //
-         //                   //
-          // Project 4         //
-           //<=================>//
+   //<===================>//
+  //      Project 4      //
+ //<===================>//
+
+
+  //  Starting Point of Java Program  //
+ //  ==============================  //
+//  ==============================  //
 
 
 import java.util.Scanner;                                                         // Importing Scanner Utility Package //
